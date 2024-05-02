@@ -1,7 +1,5 @@
 Hello there
 Lets try SSH
 
-<<<<<<< HEAD
 This line belongs to David (@MDSCLLC): Studying AI/ML (Google)
 Hello, I'm @nbkhope. I'm studying GitHub.
->>>>>>> upstream/master
